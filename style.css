@@ -1,0 +1,40 @@
+* {
+   padding: 0;
+   margin: 0;
+   max-width: 100% !important;
+   font-family: arial, sans-serif;
+}
+
+body {
+   background-color: #021734;
+}
+
+.cWrap {
+   width: 850px;
+   height: 500px;
+   margin: 30px auto;
+}
+
+#canvas {
+   width: 850px;
+   height: 500px;
+   border: 1px solid gray;
+   box-sizing: border-box;
+}
+
+#btn {
+   width: 850px;
+   height: 500px;
+   margin: 30px auto;
+   text-align: center;
+}
+#btn a {
+   display: inline-block;
+   padding: 10px 30px;
+   background-color: #28aae3;
+   border: 4px solid #01dadb;
+   text-decoration: none;
+   color: white;
+   font-size: 18px;
+   font-weight: 700;
+}
